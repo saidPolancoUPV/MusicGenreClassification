@@ -1,0 +1,7 @@
+.idea
+data/archive.zip
+data/genres_original/*
+!data/genres_original/.gitkeep
+data/images_original/*
+!data/images_original/.gitkeep
+data/img_data/*
